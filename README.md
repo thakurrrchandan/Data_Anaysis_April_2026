@@ -123,23 +123,19 @@ These figures illustrate the type of insights produced by the analysis. The Pyth
 
 ## Recorded Project Walkthrough
 
-The project was recorded and uploaded to YouTube in four parts, covering each tool in the stack.
+The project was recorded and uploaded to YouTube in four parts, covering each tool in the stack. Click on the thumbnails below to watch the walkthroughs.
 
 ### Part 1 – Excel Data Cleaning
-
-[▶ Watch Part 1](https://youtu.be/vGs3sP_F9Lk)
+[![Part 1 – Excel Data Cleaning](https://img.youtube.com/vi/vGs3sP_F9Lk/maxresdefault.jpg)](https://youtu.be/vGs3sP_F9Lk)
 
 ### Part 2 – Python Exploratory Data Analysis
-
-[▶ Watch Part 2](https://youtu.be/cNOMo2Pm6BU)
+[![Part 2 – Python Exploratory Data Analysis](https://img.youtube.com/vi/cNOMo2Pm6BU/maxresdefault.jpg)](https://youtu.be/cNOMo2Pm6BU)
 
 ### Part 3 – SQL Database Querying
-
-[▶ Watch Part 3](https://youtu.be/eJpon-DDkrM)
+[![Part 3 – SQL Database Querying](https://img.youtube.com/vi/eJpon-DDkrM/maxresdefault.jpg)](https://youtu.be/eJpon-DDkrM)
 
 ### Part 4 – Power BI Visualization
-
-[▶ Watch Part 4](https://youtu.be/7xzWg7Ll9JM)
+[![Part 4 – Power BI Visualization](https://img.youtube.com/vi/7xzWg7Ll9JM/maxresdefault.jpg)](https://youtu.be/7xzWg7Ll9JM)
 
 The videos serve as a visual **proof-of-work** and provide a detailed walkthrough of the project methodologies.
 
